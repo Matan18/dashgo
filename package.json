@@ -21,6 +21,7 @@
     "react-dom": "17.0.2",
     "react-hook-form": "^7.20.5",
     "react-icons": "^4.3.1",
+    "react-query": "^3.34.12",
     "yup": "^0.32.11"
   },
   "devDependencies": {
@@ -28,6 +29,8 @@
     "@types/react": "^17.0.37",
     "eslint": "7",
     "eslint-config-next": "12.0.4",
+    "leite": "^0.2.0",
+    "miragejs": "^0.1.43",
     "typescript": "^4.5.2"
   }
 }
